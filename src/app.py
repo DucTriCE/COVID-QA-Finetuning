@@ -17,7 +17,7 @@ def answer_question(question, context):
 
 st.set_page_config(layout="wide")
 st.title("COVID-QA Question Answering System")
-st.write("Enter a context and a question to get an answer from the fine-tuned model.")
+st.write("Enter a context and a question to get an answer.")
 
 context = st.text_area("Context", height=200, placeholder= "COVID-19 is an infectious disease caused by the most recently discovered coronavirus.\n"
                                                          '["Covid-19", "is", "an", "infectious", "disease", "caused", "by", "the", "most", "recently", "discovered", "coronavirus"]')
