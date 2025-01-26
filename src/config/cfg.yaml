@@ -1,6 +1,6 @@
 # Model configuration
 model_name: "roberta-base"            # Pre-trained model to use (e.g., "roberta-base", "bert-base-uncased")
-output_dir: "./fine-tuned-model"      # Directory to save the fine-tuned model
+output_dir: "./pretrained"      # Directory to save the fine-tuned model
 
 # Training configuration
 learning_rate: 2e-5                   # Learning rate for the optimizer
