@@ -1,6 +1,7 @@
 # Fine-tuning Question-Answering Model for COVID-QA dataset
-
 Full-finetuning Question-Answering model using the COVID-QA dataset related to COVID-19.
+
+![UI Image](image/ui.png)
 
 ## Dataset
 
